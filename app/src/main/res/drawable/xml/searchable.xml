@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+    android:hint="@string/search_hint"
+    android:label="@string/app_name" />
